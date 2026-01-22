@@ -4,7 +4,7 @@
 A falta de transparência nos agentes de IA não se limita apenas à lógica do algoritmo, mas principalmente à opacidade sobre o destino dos dados sensíveis. 
 
 ### Solução Proposta no Projeto WALL-E
-Neste estudo, utilizamos a análise de dados para monitorar o **comportamento de saída (egress traffic)** do agente. O objetivo é:
+Neste estudo, utilizei a análise de dados para monitorar o **comportamento de saída (egress traffic)** do agente. O objetivo é:
 * **Garantir a Soberania:** Certificar que informações de pagamento não sejam exfiltradas para domínios não autorizados.
 * **Cumprir a LGPD:** Atender aos pilares de transparência e finalidade dos dados.
 
