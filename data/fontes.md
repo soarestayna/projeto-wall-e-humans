@@ -14,3 +14,6 @@ Para fundamentar a análise do "Dilema do Agente Confiável", foram selecionadas
     - **Descrição:** Conjunto de dados estruturados contendo 100.000 transações de e-commerce para modelagem de padrões de fraude realistas.
     - **Tipo de Dados:** Estruturados (tabela com 40+ variáveis técnicas e financeiras).
     - **Método de Acesso:** Download direto via Kaggle (Licença Apache 2.0).
+
+---
+[🏠 Voltar para o README Principal](../README.md)
