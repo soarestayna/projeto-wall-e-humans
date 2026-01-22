@@ -1,6 +1,6 @@
-## O Dilema do Agente Confiável: Segurança e Privacidade na Era da Conveniência
+# O Dilema do Agente Confiável: Segurança e Privacidade na Era da Conveniência
 
-### Descrição Detalhada do Problema
+## Descrição Detalhada do Problema
 
 Em 2008, a animação *WALL-E* apresentou uma visão satírica e preocupante do futuro: seres humanos vivendo em um estado de passividade 
 absoluta, delegando todas as suas decisões e necessidades básicas a sistemas automatizados. Em 2026, essa ficção se aproxima da realidade 
@@ -39,3 +39,7 @@ Através da análise de dados estratégica, podemos transformar um sistema vulne
   gatilhos estatísticos (como comandos de *override* ou *jailbreak,* ex: o padrão "DAN") permite que o sistema bloqueie a ação antes que o dano financeiro ocorra.
 - **Transparência de Fluxo:** A análise de dados permite mapear o destino final de cada informação sensível, garantindo que o agente de IA opere apenas
   dentro de "Zonas Confiáveis", mitigando o risco de exfiltração silenciosa.
+
+
+  ---
+[⬅️ Voltar para o Início](../README.md) | [Próximo Capítulo: LGPD ➡️](02-privacidade-lgpd.md)
