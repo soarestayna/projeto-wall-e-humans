@@ -10,10 +10,9 @@ Ao delegar autonomia financeira e de dados, o usuário expande sua **Superfície
 apenas um erro técnico, é uma falha de design na confiança depositada na automação plena.
 
 ## 2. Padrões de Ataque Identificados (EDA)
-Através da Análise Exploratória de Dados no dataset MPDD, identificamos que ataques de injeção de prompt possuem um vocabulário estatisticamente previsível. 
+Através da Análise Exploratória de Dados no dataset MPDD, foi identificado que ataques de injeção de prompt possuem um vocabulário estatisticamente previsível. 
 * **Gatilhos Comuns:** Termos como `ignore`, `system`, `access`, `admin` e o padrão `DAN`.
-* **Conclusão:** A previsibilidade desses termos justifica a implementação de um **Vigia de Machine Learning** capaz de realizar a triagem semântica antes
-  do processamento do agente principal (O Analista Humano).
+* **Conclusão:** A previsibilidade desses termos justifica a implementação de um **Vigia de Machine Learning** capaz de realizar a triagem semântica antes do processamento do agente principal (O Analista Humano).
 
 ## 3. Conformidade e Transparência (LGPD)
 O projeto identificou um "ponto cego" de privacidade na saída de dados (*egress traffic*).
