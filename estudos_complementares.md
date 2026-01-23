@@ -15,7 +15,3 @@ O objetivo desta seção é demonstrar como a ciência de dados foi aplicada em 
 ### Certificação: Cisco - Cybersecurity Essentials
 * **Foco:** Inteligência de ameaças (CTI) e defesa de redes.
 * **Aplicação:** Estruturação dos frameworks de segurança e lógica de triagem do "Vigia".
-
-
----
-[🏠 Voltar para o README Principal](../README.md)
