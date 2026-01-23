@@ -17,5 +17,6 @@ Para garantir a clareza técnica deste relatório de investigação, definem-se 
 | **TTPs (Táticas, Técnicas e Procedimentos)** | Descrição do "modus operandi" de um atacante. Analisar TTPs permite identificar padrões de comportamento de grupos criminosos. |
 
 ---
-[⬅️ Voltar para Riscos e Evolução](03-limitacoes-futuro.md) | [🏠 Página Inicial](../README.md)
+[⬅️ Anterior](03-limitacoes-futuro.md) | [Voltar para o Início](../README.md) | [Ver Créditos e Referências ➡️](05-creditos-referencias.md)
+
 
