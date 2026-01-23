@@ -21,7 +21,7 @@ O embasamento estratégico deste projeto foi construído a partir da análise de
 ## 3. Frameworks e Bases Técnicas
 * **OWASP Top 10 for LLM:** Guia fundamental para identificação de vulnerabilidades em modelos de linguagem (Prompt Injection, Data Leakage).
 * **LGPD (Lei Geral de Proteção de Dados):** Base jurídica para os pilares de Transparência e Finalidade de dados no projeto.
-* **Network Science (Albert-László Barabási):** Referência acadêmica para a aplicação de Redes Complexas na análise de propagação de ameaças.
+* **Network Science (Réka Albert e Albert-László Barabási):** Referência acadêmica para a aplicação de Redes Complexas na análise de propagação de ameaças.
 
 ## 4. Ferramentas e Bibliotecas (Stack Técnica)
 * **Linguagem:** Python 3.x
